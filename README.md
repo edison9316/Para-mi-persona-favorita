@@ -1,3 +1,4 @@
+<img width="1152" height="2048" alt="foto" src="https://github.com/user-attachments/assets/63bc0745-67c8-4c2a-ac07-510e3165dfca" />
 # Para-mi-persona-favorita
 <!DOCTYPE html>
 <html lang="es">
